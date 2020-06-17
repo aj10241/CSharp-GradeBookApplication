@@ -3,8 +3,6 @@ using GradeBook.Enums;
 
 namespace GradeBook.GradeBooks
 {
-
-    public class GradeBookType
     public class BaseGradeBook
     {
         public string Name { get; set; }
